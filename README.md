@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shinv2?tab=repositories](https://github.com/Shinv2?tab=repositories)
 
-- 💬 Ask me about **------------------**
+- 💬 Ask me about **--------------------**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
